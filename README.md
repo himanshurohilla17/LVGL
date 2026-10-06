@@ -21,7 +21,10 @@ Today, I successfully configured the development environment and built my very f
 * **Platform:** Windows Simulator
 
 ### 📁 Today's Code Location:
-The source code and project files for today's milestone can be found in the `Day-01/` folder.
+The source code and project files for today's milestone can be found in the `Day-1_Setup-And-Hello-World/` folder.
+
+### 📸 Output Screenshot:
+![Hello World Screen](./Day-1_Setup-And-Hello-World/screenshot.png)
 
 ---
 
